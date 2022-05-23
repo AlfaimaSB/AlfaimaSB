@@ -4,7 +4,7 @@
 
 :microscope: I'm currently working on applying operations research and data science to shape and improve agrifood systems
 
-:seedling: I'm polishing my knowledge and skills in Artificial Intelligence
+:seedling: I'm polishing my knowledge and skills in metaheuristics
 
 ⚡ Fun fact: I like reading and I love cats
 
