@@ -6,7 +6,7 @@
 
 :seedling: I'm polishing my knowledge and skills in metaheuristics
 
-⚡ Fun fact: I like reading and I love cats
+⚡ Fun fact: cats and reading go well together
 
 <div align="center">
 <a href="https://mantimantilla.github.io/">
