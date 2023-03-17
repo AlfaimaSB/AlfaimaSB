@@ -1,6 +1,6 @@
 # Hi!
 
-:books: I'm currently Instructor of Industrial Engineering at Universidad de los Andes
+:books: I'm currently a PhD student of the [Operations Planning Accounting & Control (OPAC)](https://www.tue.nl/en/research/research-groups/industrial-engineering/operations-planning-accounting-control) at the Eindhoven University of Technology (TU/e) 
 
 :microscope: I'm currently working on applying operations research and data science to shape and improve agrifood systems
 
