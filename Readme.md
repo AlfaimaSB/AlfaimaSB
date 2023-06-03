@@ -4,7 +4,7 @@
 
 :microscope: I'm currently working on applying operations research and data science to shape and improve agrifood systems
 
-:seedling: I'm polishing my knowledge and skills in writing
+:seedling: I'm polishing my knowledge and skills in _javascript_
 
 ⚡ Fun fact: cats and reading go well together
 
