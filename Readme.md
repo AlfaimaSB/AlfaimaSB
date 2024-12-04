@@ -6,7 +6,7 @@
 
 :seedling: I'm polishing my knowledge and skills in _C++_
 
-⚡ Fun fact: cats and reading go well together
+⚡ Fun fact: kombucha scobbies can be squared
 
 <div align="center">
 <a href="https://mantimantilla.github.io/">
